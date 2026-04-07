@@ -1,0 +1,28 @@
+name: MLBGameFinder
+options:
+  bundleIdPrefix: com.johnhillphoto
+  deploymentTarget:
+    iOS: "17.0"
+  xcodeVersion: "16.0"
+  swift: "6.0"
+settings:
+  SWIFT_STRICT_CONCURRENCY: complete
+targets:
+  MLBGameFinder:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - MLBGameFinder
+    resources:
+      - MLBGameFinder/Resources
+    info:
+      path: MLBGameFinder/Info.plist
+      properties:
+        CFBundleDisplayName: MLB Game Finder
+        UILaunchScreen:
+          UIColorName: ""
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+        NSAppTransportSecurity:
+          NSAllowsArbitraryLoads: false

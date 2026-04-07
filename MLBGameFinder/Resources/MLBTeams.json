@@ -1,0 +1,302 @@
+[
+  {
+    "id": 109,
+    "name": "Arizona Diamondbacks",
+    "abbreviation": "ARI",
+    "division": "NL West",
+    "primaryHex": "#a71930",
+    "primaryLightHex": "#c42040",
+    "primaryDarkHex": "#7d1224",
+    "secondaryHex": "#e3d4ad"
+  },
+  {
+    "id": 144,
+    "name": "Atlanta Braves",
+    "abbreviation": "ATL",
+    "division": "NL East",
+    "primaryHex": "#ce1141",
+    "primaryLightHex": "#e31d53",
+    "primaryDarkHex": "#9c0c30",
+    "secondaryHex": "#13274f"
+  },
+  {
+    "id": 110,
+    "name": "Baltimore Orioles",
+    "abbreviation": "BAL",
+    "division": "AL East",
+    "primaryHex": "#df4601",
+    "primaryLightHex": "#f05a1e",
+    "primaryDarkHex": "#a33300",
+    "secondaryHex": "#000000"
+  },
+  {
+    "id": 111,
+    "name": "Boston Red Sox",
+    "abbreviation": "BOS",
+    "division": "AL East",
+    "primaryHex": "#bd3039",
+    "primaryLightHex": "#d4545e",
+    "primaryDarkHex": "#8a1c26",
+    "secondaryHex": "#0d2b56"
+  },
+  {
+    "id": 112,
+    "name": "Chicago Cubs",
+    "abbreviation": "CHC",
+    "division": "NL Central",
+    "primaryHex": "#0e3386",
+    "primaryLightHex": "#1547a5",
+    "primaryDarkHex": "#092468",
+    "secondaryHex": "#cc3433"
+  },
+  {
+    "id": 145,
+    "name": "Chicago White Sox",
+    "abbreviation": "CWS",
+    "division": "AL Central",
+    "primaryHex": "#27251f",
+    "primaryLightHex": "#3d3a31",
+    "primaryDarkHex": "#1a1814",
+    "secondaryHex": "#c4ced4"
+  },
+  {
+    "id": 113,
+    "name": "Cincinnati Reds",
+    "abbreviation": "CIN",
+    "division": "NL Central",
+    "primaryHex": "#c6011f",
+    "primaryLightHex": "#df1935",
+    "primaryDarkHex": "#910016",
+    "secondaryHex": "#000000"
+  },
+  {
+    "id": 114,
+    "name": "Cleveland Guardians",
+    "abbreviation": "CLE",
+    "division": "AL Central",
+    "primaryHex": "#00385d",
+    "primaryLightHex": "#004d80",
+    "primaryDarkHex": "#002340",
+    "secondaryHex": "#e31937"
+  },
+  {
+    "id": 115,
+    "name": "Colorado Rockies",
+    "abbreviation": "COL",
+    "division": "NL West",
+    "primaryHex": "#33006f",
+    "primaryLightHex": "#450093",
+    "primaryDarkHex": "#23004d",
+    "secondaryHex": "#c4ced4"
+  },
+  {
+    "id": 116,
+    "name": "Detroit Tigers",
+    "abbreviation": "DET",
+    "division": "AL Central",
+    "primaryHex": "#0c2340",
+    "primaryLightHex": "#1a3a5c",
+    "primaryDarkHex": "#071729",
+    "secondaryHex": "#fa4616"
+  },
+  {
+    "id": 117,
+    "name": "Houston Astros",
+    "abbreviation": "HOU",
+    "division": "AL West",
+    "primaryHex": "#002d62",
+    "primaryLightHex": "#003d87",
+    "primaryDarkHex": "#001d40",
+    "secondaryHex": "#eb6e1f"
+  },
+  {
+    "id": 118,
+    "name": "Kansas City Royals",
+    "abbreviation": "KCR",
+    "division": "AL Central",
+    "primaryHex": "#004687",
+    "primaryLightHex": "#0055a4",
+    "primaryDarkHex": "#003166",
+    "secondaryHex": "#c09a5b"
+  },
+  {
+    "id": 108,
+    "name": "Los Angeles Angels",
+    "abbreviation": "LAA",
+    "division": "AL West",
+    "primaryHex": "#ba0021",
+    "primaryLightHex": "#d4193a",
+    "primaryDarkHex": "#8a0018",
+    "secondaryHex": "#003263"
+  },
+  {
+    "id": 119,
+    "name": "Los Angeles Dodgers",
+    "abbreviation": "LAD",
+    "division": "NL West",
+    "primaryHex": "#005a9c",
+    "primaryLightHex": "#0070c0",
+    "primaryDarkHex": "#003d6b",
+    "secondaryHex": "#ef3e42"
+  },
+  {
+    "id": 146,
+    "name": "Miami Marlins",
+    "abbreviation": "MIA",
+    "division": "NL East",
+    "primaryHex": "#00a3e0",
+    "primaryLightHex": "#1ab5f5",
+    "primaryDarkHex": "#0076a5",
+    "secondaryHex": "#ff6600"
+  },
+  {
+    "id": 158,
+    "name": "Milwaukee Brewers",
+    "abbreviation": "MIL",
+    "division": "NL Central",
+    "primaryHex": "#12284b",
+    "primaryLightHex": "#1a3a6b",
+    "primaryDarkHex": "#0b1c35",
+    "secondaryHex": "#b6922e"
+  },
+  {
+    "id": 142,
+    "name": "Minnesota Twins",
+    "abbreviation": "MIN",
+    "division": "AL Central",
+    "primaryHex": "#002b5c",
+    "primaryLightHex": "#003d82",
+    "primaryDarkHex": "#001a3a",
+    "secondaryHex": "#d31145"
+  },
+  {
+    "id": 121,
+    "name": "New York Mets",
+    "abbreviation": "NYM",
+    "division": "NL East",
+    "primaryHex": "#002d72",
+    "primaryLightHex": "#003d99",
+    "primaryDarkHex": "#001f52",
+    "secondaryHex": "#ff5910"
+  },
+  {
+    "id": 147,
+    "name": "New York Yankees",
+    "abbreviation": "NYY",
+    "division": "AL East",
+    "primaryHex": "#003087",
+    "primaryLightHex": "#1a4a9e",
+    "primaryDarkHex": "#001f5b",
+    "secondaryHex": "#c4a962"
+  },
+  {
+    "id": 133,
+    "name": "Oakland Athletics",
+    "abbreviation": "OAK",
+    "division": "AL West",
+    "primaryHex": "#003831",
+    "primaryLightHex": "#004d42",
+    "primaryDarkHex": "#002420",
+    "secondaryHex": "#efb21e"
+  },
+  {
+    "id": 143,
+    "name": "Philadelphia Phillies",
+    "abbreviation": "PHI",
+    "division": "NL East",
+    "primaryHex": "#e81828",
+    "primaryLightHex": "#ff2c40",
+    "primaryDarkHex": "#ad0e1d",
+    "secondaryHex": "#284898"
+  },
+  {
+    "id": 134,
+    "name": "Pittsburgh Pirates",
+    "abbreviation": "PIT",
+    "division": "NL Central",
+    "primaryHex": "#27251f",
+    "primaryLightHex": "#3d3a31",
+    "primaryDarkHex": "#1a1814",
+    "secondaryHex": "#fdb827"
+  },
+  {
+    "id": 135,
+    "name": "San Diego Padres",
+    "abbreviation": "SDP",
+    "division": "NL West",
+    "primaryHex": "#2f241d",
+    "primaryLightHex": "#433628",
+    "primaryDarkHex": "#1f1812",
+    "secondaryHex": "#ffc425"
+  },
+  {
+    "id": 137,
+    "name": "San Francisco Giants",
+    "abbreviation": "SFG",
+    "division": "NL West",
+    "primaryHex": "#fd5a1e",
+    "primaryLightHex": "#ff7042",
+    "primaryDarkHex": "#c43e10",
+    "secondaryHex": "#27251f"
+  },
+  {
+    "id": 136,
+    "name": "Seattle Mariners",
+    "abbreviation": "SEA",
+    "division": "AL West",
+    "primaryHex": "#0c2c56",
+    "primaryLightHex": "#1a3f6f",
+    "primaryDarkHex": "#071e3d",
+    "secondaryHex": "#005c5c"
+  },
+  {
+    "id": 138,
+    "name": "St. Louis Cardinals",
+    "abbreviation": "STL",
+    "division": "NL Central",
+    "primaryHex": "#c41e3a",
+    "primaryLightHex": "#dd2246",
+    "primaryDarkHex": "#9a1630",
+    "secondaryHex": "#0c2340"
+  },
+  {
+    "id": 139,
+    "name": "Tampa Bay Rays",
+    "abbreviation": "TBR",
+    "division": "AL East",
+    "primaryHex": "#092c5c",
+    "primaryLightHex": "#0a3573",
+    "primaryDarkHex": "#06193a",
+    "secondaryHex": "#8fbce6"
+  },
+  {
+    "id": 140,
+    "name": "Texas Rangers",
+    "abbreviation": "TEX",
+    "division": "AL West",
+    "primaryHex": "#003278",
+    "primaryLightHex": "#003e93",
+    "primaryDarkHex": "#001f4d",
+    "secondaryHex": "#c0111f"
+  },
+  {
+    "id": 141,
+    "name": "Toronto Blue Jays",
+    "abbreviation": "TOR",
+    "division": "AL East",
+    "primaryHex": "#134a8e",
+    "primaryLightHex": "#1e5fad",
+    "primaryDarkHex": "#0c3268",
+    "secondaryHex": "#e8291c"
+  },
+  {
+    "id": 120,
+    "name": "Washington Nationals",
+    "abbreviation": "WSN",
+    "division": "NL East",
+    "primaryHex": "#ab0003",
+    "primaryLightHex": "#cc0004",
+    "primaryDarkHex": "#7d0002",
+    "secondaryHex": "#14225a"
+  }
+]

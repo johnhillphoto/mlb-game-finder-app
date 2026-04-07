@@ -1,0 +1,269 @@
+{
+  "dates": [
+    {
+      "date": "2026-04-10",
+      "games": [
+        {
+          "gamePk": 746001,
+          "gameDate": "2026-04-10T23:05:00Z",
+          "status": {
+            "abstractGameState": "Live",
+            "detailedState": "In Progress"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": 3,
+              "isWinner": null
+            },
+            "away": {
+              "team": { "id": 110, "name": "Baltimore Orioles", "abbreviation": "BAL" },
+              "score": 2,
+              "isWinner": null
+            }
+          },
+          "venue": { "name": "Yankee Stadium" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false },
+            { "name": "MASN", "type": "TV", "language": "en", "isNational": false }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-12",
+      "games": [
+        {
+          "gamePk": 746002,
+          "gameDate": "2026-04-12T17:05:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "detailedState": "Scheduled"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": null,
+              "isWinner": null
+            },
+            "away": {
+              "team": { "id": 111, "name": "Boston Red Sox", "abbreviation": "BOS" },
+              "score": null,
+              "isWinner": null
+            }
+          },
+          "venue": { "name": "Yankee Stadium" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false },
+            { "name": "NESN", "type": "TV", "language": "en", "isNational": false }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-14",
+      "games": [
+        {
+          "gamePk": 746003,
+          "gameDate": "2026-04-14T23:10:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "detailedState": "Scheduled"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 119, "name": "Los Angeles Dodgers", "abbreviation": "LAD" },
+              "score": null,
+              "isWinner": null
+            },
+            "away": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": null,
+              "isWinner": null
+            }
+          },
+          "venue": { "name": "Dodger Stadium" },
+          "broadcasts": [
+            { "name": "ESPN", "type": "TV", "language": "en", "isNational": true }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-17",
+      "games": [
+        {
+          "gamePk": 746004,
+          "gameDate": "2026-04-17T17:35:00Z",
+          "status": {
+            "abstractGameState": "Preview",
+            "detailedState": "Scheduled"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": null,
+              "isWinner": null
+            },
+            "away": {
+              "team": { "id": 141, "name": "Toronto Blue Jays", "abbreviation": "TOR" },
+              "score": null,
+              "isWinner": null
+            }
+          },
+          "venue": { "name": "Yankee Stadium" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-04",
+      "games": [
+        {
+          "gamePk": 745901,
+          "gameDate": "2026-04-04T17:05:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "detailedState": "Final"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": 7,
+              "isWinner": true
+            },
+            "away": {
+              "team": { "id": 110, "name": "Baltimore Orioles", "abbreviation": "BAL" },
+              "score": 3,
+              "isWinner": false
+            }
+          },
+          "venue": { "name": "Yankee Stadium" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-03",
+      "games": [
+        {
+          "gamePk": 745900,
+          "gameDate": "2026-04-03T17:05:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "detailedState": "Final"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": 2,
+              "isWinner": false
+            },
+            "away": {
+              "team": { "id": 111, "name": "Boston Red Sox", "abbreviation": "BOS" },
+              "score": 5,
+              "isWinner": true
+            }
+          },
+          "venue": { "name": "Yankee Stadium" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false },
+            { "name": "NESN", "type": "TV", "language": "en", "isNational": false }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-04-01",
+      "games": [
+        {
+          "gamePk": 745899,
+          "gameDate": "2026-04-01T22:10:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "detailedState": "Final"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 136, "name": "Seattle Mariners", "abbreviation": "SEA" },
+              "score": 1,
+              "isWinner": false
+            },
+            "away": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": 4,
+              "isWinner": true
+            }
+          },
+          "venue": { "name": "T-Mobile Park" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-30",
+      "games": [
+        {
+          "gamePk": 745898,
+          "gameDate": "2026-03-30T22:10:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "detailedState": "Final"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 136, "name": "Seattle Mariners", "abbreviation": "SEA" },
+              "score": 3,
+              "isWinner": true
+            },
+            "away": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": 2,
+              "isWinner": false
+            }
+          },
+          "venue": { "name": "T-Mobile Park" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-03-28",
+      "games": [
+        {
+          "gamePk": 745897,
+          "gameDate": "2026-03-28T18:10:00Z",
+          "status": {
+            "abstractGameState": "Final",
+            "detailedState": "Final"
+          },
+          "teams": {
+            "home": {
+              "team": { "id": 147, "name": "New York Yankees", "abbreviation": "NYY" },
+              "score": 6,
+              "isWinner": true
+            },
+            "away": {
+              "team": { "id": 139, "name": "Tampa Bay Rays", "abbreviation": "TBR" },
+              "score": 4,
+              "isWinner": false
+            }
+          },
+          "venue": { "name": "Yankee Stadium" },
+          "broadcasts": [
+            { "name": "YES", "type": "TV", "language": "en", "isNational": false },
+            { "name": "MLB Network", "type": "TV", "language": "en", "isNational": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
