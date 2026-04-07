@@ -35,7 +35,7 @@ enum DateFormatting {
         gameTimeFormatter.string(from: date)
     }
 
-    /// e.g. "Thu, Apr 7"
+    /// e.g. "Thu, Apr 7, 2026"
     static func gameDate(_ date: Date) -> String {
         gameDateFormatter.string(from: date)
     }
