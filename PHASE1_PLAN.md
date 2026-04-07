@@ -294,10 +294,10 @@ Colors are stored as hex strings in JSON and converted to `Color` at load time v
 
 | # | Assumption | Basis |
 |---|---|---|
-| A1 | The MLB Stats API at `statsapi.mlb.com` remains publicly accessible without an API key. | Current web app uses it without authentication. |
+| A1 | The MLB Stats API at `statsapi.mlb.com` remains publicly accessible without an API key. | Current web app uses it without authentication. **Contingency:** If the API becomes gated, the architecture's `GameRepository` protocol allows swapping in a backend proxy with no view-layer changes. A proxy layer (e.g., a lightweight Vapor or CloudFlare Worker service) could be stood up to handle auth and forward requests. |
 | A2 | The API response schema (schedule endpoint with hydrations) is stable and matches the fields documented in ARCHITECTURE.md. | Based on analysis of web app's consumption. |
 | A3 | All 30 team IDs in `mlb-teams.ts` are current and correct for the 2026 season. | Matches MLB Stats API team IDs. |
-| A4 | Season start is approximately March 1 (hardcoded in web app). | Will use same logic initially; improve in Phase 2 by deriving from actual API data. |
+| A4 | Season start is approximately March 1 (hardcoded in web app). | **Elevated priority:** The iOS app should derive the season start from the MLB API's `/seasons` endpoint or from the earliest game date returned by the schedule query, rather than hardcoding March 1. This avoids annual maintenance and prevents missing early-season games (e.g., international openers in February). Target for Phase 2 initial implementation. |
 | A5 | English-language broadcasts are the primary/only broadcasts to display. | Matches web app behavior. |
 | A6 | Game types `R,F,D,L,W` (Regular, Wild Card, Division, League, World Series) are the correct set to query. | Matches web app; Spring Training (`S`) and All-Star (`A`) excluded. |
 | A7 | The Xcode project will use Swift 6 with strict concurrency checking enabled. | Best practice for new projects in 2026. |
@@ -305,7 +305,7 @@ Colors are stored as hex strings in JSON and converted to `Color` at load time v
 
 ---
 
-## 8. Phase 2 Implementation Preview
+## 8. Next Steps — Phase 2 Scope Overview
 
 Upon approval of this Phase 1 plan, Phase 2 will deliver:
 
